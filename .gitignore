@@ -1,3 +1,4 @@
-.fits
+*.fits
 .vscode
 .ipynb_checkpoints
+*.fit
